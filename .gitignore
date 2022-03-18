@@ -1,0 +1,6 @@
+
+node_modules/
+
+# Los módulos de node se pueden recuperar con: npm install
+
+salida/*.txt
